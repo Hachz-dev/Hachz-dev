@@ -1,5 +1,6 @@
 ## Hi there I'm Hachz 👋
-- 🌱 I’m currently learning Web Development with Python
+- 🌱 I’m currently learning Web Development
+- 🐍 Python back-end developer (in progress...)
 - 📫 Contact me: hachzdev@gmail.com
 <!--
 **Hachz-dev/Hachz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
