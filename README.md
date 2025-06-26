@@ -1,5 +1,5 @@
 ## Hi there I'm Hachz 👋
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Machine Learning
 - 🐍 Python back-end developer (in progress...)
 - 📫 Contact me: hachzdev@gmail.com
 <!--
