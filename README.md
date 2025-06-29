@@ -1,7 +1,34 @@
-## Hi there I'm Hachz 👋
-- 🌱 I’m currently learning Machine Learning
-- 🐍 Python back-end developer (in progress...)
-- 📫 Contact me: hachzdev@gmail.com
+<h1 align= "center">Hello there, I'm Hazael Sánchez 👋</h1>
+<h3 align= "center">Self-taught developer ⭐</h3>
+
+
+## 🐸 About me:
+- 🐍 **Python** back-end developer
+- 🌱 I’m currently learning **Machine Learning** and **Data Science**
+- 🎸 My greatest hobbie is **Making Music**
+
+## 📩 Contact info:
+
+<a href="https://linkedin.com/in/hachzdev" target="_blank">
+<img src="https://img.shields.io/badge/linkedin:  hachzdev-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
+<a href="mailto:hachzdev@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  hachzdev@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+## 👾 Technologies I use:
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<div>
+
+## 🔥 Frameworks:
+
+![NumPy](https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white)
+
+<h3> 
+👀 Fun fact: I love frogs
+</h3>
+
 <!--
 **Hachz-dev/Hachz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
