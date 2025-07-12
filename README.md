@@ -4,7 +4,7 @@
 
 ## 🐸 About me:
 - 🐍 **Python** back-end developer
-- 🌱 I’m currently learning **Machine Learning** and **Data Science**
+- 🌱 I’m currently learning **Machine Learning** and **Data Analysis**
 - 🎸 My greatest hobbie is **Making Music**
 
 ## 📩 Contact info:
@@ -17,7 +17,11 @@
 </a>
 
 ## 👾 Technologies I use:
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <div>
 
 ## 🔥 Frameworks:
