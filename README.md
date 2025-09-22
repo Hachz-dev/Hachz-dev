@@ -4,8 +4,8 @@
 
 ## 🐸 About me:
 - 🐍 **Python** back-end developer
-- 🌱 I’m currently learning **Machine Learning** and **Data Science**
-- 🎸 My greatest hobbie is **Making Music**
+- 🌱 I’m currently learning **Web Development**
+- 🎸 My greatest hobbie is **Music**
 
 ## 📩 Contact info:
 
