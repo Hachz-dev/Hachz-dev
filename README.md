@@ -5,7 +5,7 @@
 ## 🐸 About me:
 - 🐍 **Python** back-end developer
 - 🌱 I’m currently learning **Web Development**
-- 🎸 My greatest hobbie is **Music**
+- 🎸 My favorite hobbie is **Music**
 
 ## 📩 Contact info:
 
